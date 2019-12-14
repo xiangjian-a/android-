@@ -277,7 +277,7 @@ PDF如下
 
 [-----持续更新   未完待续-------](#)
 
-[GitHub干货集合](https://github.com/interviewandroid/AndroidInterView)
+[GitHub干货集合](https://github.com/xiangjian-a/android-)
 
 #### 后续持续更新中，添加QQ群：892872246, 备注github
 
