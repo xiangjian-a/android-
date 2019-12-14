@@ -93,7 +93,7 @@ PDF如下
 
 - [ Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么](study/framework/Android消息机制.md)
 
-  - [ BAT面试必备——HashMap原理与性能优化（视频教学）](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+- [ BAT面试必备——HashMap原理与性能优化（视频教学）](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
 
 > 腾讯面试集合
 
