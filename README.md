@@ -188,11 +188,11 @@ PDF如下
 
 [阿里巴巴ARouter原理执行流程，对组件化开发有什么好处](android/thread.md)
 
-[RePlugin插件化通过什么方式实现强兼容](android/thread.md)
+[RePlugin插件化通过什么方式实现强兼容](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[谈谈对Rxjava的底层认识，如何做到线程切换的](android/thread.md)
+[谈谈对Rxjava的底层认识，如何做到线程切换的](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[APT实现手写Dagger注入式框架](android/thread.md)
+[APT实现手写Dagger注入式框架](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
 [-----持续更新   未完待续-------](#)
 
@@ -200,23 +200,23 @@ PDF如下
 
 ### NDK相关面试
 
- [Java中有指针吗？说说 为什么C会需要指针](android/thread.md)
+ [Java中有指针吗？说说 为什么C会需要指针](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[MakeFile编译一个so库的流程](android/thread.md)
+[MakeFile编译一个so库的流程](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[CmakeList.txt中find_library语法是什么意思](android/thread.md)
+[CmakeList.txt中find_library语法是什么意思](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[谈谈阿里云andfix热修复原理](android/thread.md)
+[谈谈阿里云andfix热修复原理](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[直播推流中，通过rtmp协议发送一个packet包的流程](android/thread.md)
+[直播推流中，通过rtmp协议发送一个packet包的流程](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[直播中为什么需要将摄像头的NV21数据通过x264编码 再发送](android/thread.md)
+[直播中为什么需要将摄像头的NV21数据通过x264编码 再发送](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[怎么编译一个FFmpeg 并且集成到AndroidStudio中](android/thread.md)
+[怎么编译一个FFmpeg 并且集成到AndroidStudio中](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[webrtc是如何实现点对点通信的](android/thread.md)
+[webrtc是如何实现点对点通信的](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[谈下webrtc 内网穿透原理](android/thread.md)
+[谈下webrtc 内网穿透原理](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
 [-----持续更新   未完待续-------](#)
 
@@ -241,19 +241,19 @@ PDF如下
 
 ### 高级UI相关面试
 
-[你知道Bat公司如何对屏幕适配的](android/thread.md)
+[你知道Bat公司如何对屏幕适配的](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[谈谈对刘海屏开发与适配方案](android/thread.md)
+[谈谈对刘海屏开发与适配方案（附有视频教学）](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[Android9.0Api适配举例有哪些不一样的地方](android/thread.md)
+[Android9.0Api适配举例有哪些不一样的地方](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[讲讲你对UI绘制流程及其原理的](android/thread.md)
+[讲讲你对UI绘制流程及其原理的](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[谈谈你对事件传递机制的认识](android/thread.md)
+[谈谈你对事件传递机制的认识](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[在自定义View中如何开启硬件加速](android/thread.md)
+[在自定义View中如何开启硬件加速](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
-[淘宝如何做到展示亿级商品（强排版，强交互实现机制）](android/thread.md)
+[淘宝如何做到展示亿级商品（强排版，强交互实现机制）](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
 [-----持续更新   未完待续-------](#)
 
