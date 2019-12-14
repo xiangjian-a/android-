@@ -17,7 +17,8 @@ PDF如下
 
 ​        其实如果你技术深度足够，大必不用为就业而忧愁。每个行业何尝不是这样，最开始的风口，到慢慢的成熟。Android初级在2019年的日子里风光不再， 靠会四大组件就能够获取到满意薪资的时代一去不复返。**经过一波一波的淘汰与洗牌，剩下的都是技术的金子。就像大浪褪去，裸泳的会慢慢上岸。**而真正坚持下来的一定会取得不错成绩。毕竟Android市场是如此之大。从Android高级的蓬勃的就业岗位需求来看，能坚信我们每一位Android开发者的梦想 。
 
- 接下来我们针对Android高级展开的完整面试题 
+ 接下来我们针对Android高级展开的完整面试题 （附带视频教程）
+
 
 ### 互联网的寒冬下，如何手握安卓70万年薪。一堂课带你走进象牙塔
 
@@ -92,7 +93,7 @@ PDF如下
 
 - [ Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么](study/framework/Android消息机制.md)
 
-  
+  - [ BAT面试必备——HashMap原理与性能优化（视频教学）](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
 
 > 腾讯面试集合
 
@@ -144,11 +145,12 @@ PDF如下
 
 - [你曾经有没有对SqliteDatabase做过封装，你自己有设计过数据库框架吗?或者只是停留在使用ormlite  greenDao这类框架](android/sqlite.md)
 
-  
+  - [apk全方位健身 打造完美身材（视频教学）](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
 
-
+- [MVP+Jetpack架构方案 ](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
 
 > 字节跳动面试集合
+- [自定义今日头条炫酷ViewPager指示器（视频教程）](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
 
 - [谈谈线程池原理](android/thread1.md)
 
@@ -156,37 +158,57 @@ PDF如下
 
 - [抖音-有做过直播特效吗? 说说直播特效的实现原理与难点](android/live_meiyan.md)
 
-- [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
+- [抖音-Include、Merge、ViewStub的作用和原理](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
-- [抖音-如何在脸部区域增加特效，怎样才能使这个特效跟随脸部](android/thread.md)
+- [抖音-如何在脸部区域增加特效，怎样才能使这个特效跟随脸部](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
-- [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
+- [抖音-Include、Merge、ViewStub的作用和原理](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
-- [抖音-Opencv中定位人脸的五个点是如何做到的](android/thread.md)
+- [抖音-Opencv中定位人脸的五个点是如何做到的](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
-- [今日头条-为什么RecyclerView加载首屏会慢一些](android/thread.md)
+- [今日头条-为什么RecyclerView加载首屏会慢一些](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
-- [今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](android/thread.md)
+- [今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
-- [今日头条-ThreadLocal底层原理和Handler的关系](android/thread.md)
+- [今日头条-ThreadLocal底层原理和Handler的关系](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
-- [今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](android/thread.md)
+- [今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
-  
+   ### 视频教程区域
+ [BAT面试必备——HashMap原理与性能优化](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[apk全方位健身 打造完美身材](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[MVP+Jetpack架构方案](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[自定义今日头条炫酷ViewPager指示器](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[UI优化——纵享丝滑ViewPager](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[海量用户App怎样保障网络连接的安全可靠？](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[一小时学会自定义ViewGroup](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[自定义QQ音乐歌词渐变效果](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[无人机与地图导航类APP核心算法分享](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[5G时代使用Webview的正确姿势](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[架构师核心技术，请求型框架通用设计方案](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[人工智能技术实战，移动端NDK开发So easy!](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[找工作必问的《设计模式》为什么那么重要？](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[一节课学会在项目中使用IoC框架 让你的代码更清爽](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[MVVM架构核心技术databinding](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[高薪必备技术 插件化实现的核心原理](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[AI落地实战—移动平台身份证识别](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[通过一个网络请求完美封装一个网络模块](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[从0开始手写实现MVO基础架构](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
+[100M的文件如何传送到服务器](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
 
 ### 架构相关面试
 
 [为什么会用到EventBus,EventBus的源码详解与架构分析，使用EventBus会造成什么弊端](android/eventbus.md)
 
-[AOP面向切面编程原理](android/thread.md)
+[AOP面向切面编程原理（附视频教程）](https://github.com/xiangjian-a/android-/blob/master/img/VX.png)
 
-[说说饿了么Hermes跨进程架构原理](android/thread.md)
+[说说饿了么Hermes跨进程架构原理](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
-[Message链表原理与重用机制是怎么实现](android/thread.md)
+[Message链表原理与重用机制是怎么实现](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
-[QQ是怎么做到皮肤换肤的，谈谈换肤原理](android/thread.md)
+[QQ是怎么做到皮肤换肤的，谈谈换肤原理](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
-[阿里巴巴ARouter原理执行流程，对组件化开发有什么好处](android/thread.md)
+[阿里巴巴ARouter原理执行流程，对组件化开发有什么好处](https://github.com/xiangjian-a/android-/blob/master/README.md)
 
 [RePlugin插件化通过什么方式实现强兼容](https://github.com/xiangjian-a/android-/blob/master/README.md#)
 
